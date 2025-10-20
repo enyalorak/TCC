@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944159939869",
+    "project_id": "tcc-transito-colatina",
+    "storage_bucket": "tcc-transito-colatina.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944159939869:android:9f1d41ad29a54e256215f4",
+        "android_client_info": {
+          "package_name": "com.example.testetcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOX9_xx2JdOOy7iMUynQNxurG1B6FFYis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
